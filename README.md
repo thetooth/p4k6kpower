@@ -4,9 +4,12 @@
 - ❓ Works in theory but not extensively tested
 - 🛑 Known camera murderer
 
-| Battery Type | Battery Adaptor    | HDMI Cable         | Monitor            | Monitor Adaptor    | *Result*           |
-| ------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
-| V Lock       | Hedbox UNIX-BM     | Smallrig 20cm      | Portkeys BM5       | D-TAP              | ✔️                  |
+| Battery Type   | Battery Adaptor   | HDMI Cable        | Monitor           | Monitor Adaptor   | Result | Notes |
+| -------------- | ----------------- | ----------------- | ----------------- | ----------------- | ------ | ----- |
+| V Lock         | Hedbox UNIX-BM    | Smallrig 20cm     | Portkeys BM5      | D-Tap             | ✔️     |
+| V Lock         | Tilta V-mount     |                   | Feelworld FW279   | D-Tap             | 🛑     |
+| V Lock         | Switronix         |                   | Liliput FS7       | D-Tap             | ❓     | [User](https://forum.blackmagicdesign.com/viewtopic.php?f=2&t=103646#p574179) states D-Tap cable had wrong polarity |
+| Internal       | -                 |                   | Feelworld F5      | -                 | 🛑     |
 
 If you would like to list your combination here open a issue [here](https://github.com/thetooth/p4k6kpower/issues) or submit a PR.
 
