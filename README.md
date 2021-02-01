@@ -17,6 +17,7 @@ Hopefully with enough data it will allow people to draw their own conclusions on
 | V Mount        | Tilta V Mount     | D-Tap           |                   | Feelworld FW279   | D-Tap             | 🛑     |
 | V Mount        | Switronix         | D-Tap           |                   | Liliput FS7       | D-Tap             | ❓     | [User](https://forum.blackmagicdesign.com/viewtopic.php?f=2&t=103646#p574179) states D-Tap cable had wrong polarity |
 | Internal       | -                 | -               |                   | Feelworld F5      | -                 | 🛑     |
+| V Mount        | Soonwell P-VG1    | D-Tap           |                   | Feelworld FW279   | D-Tap             | 🛑     |
 
 If you would like to list your combination here open a issue [here](https://github.com/thetooth/p4k6kpower/issues) or submit a PR.
 
