@@ -1,14 +1,20 @@
 # BM Pocket 4k/6k single power source compatibility table 🔥🚒
 
+This page is to provide a compatibility reference when it comes to using a single V Mount or NP-F power solutions. There are rumours circulating that you cannot use a single battery without ruining the HDMI output of the camera, but some of us have been doing just that since the camera was released without issue.
+
+Hopefully with enough data it will allow people to draw their own conclusions on what is really causing the failures, be it certain monitors, cables or just plain bad luck.
+
+## Tested configurations
+
 - ✔️ Confirmed working 
 - ❓ Works in theory but not extensively tested
 - 🛑 Known camera murderer
 
 | Battery Type   | Battery Adaptor   | Camera Adaptor  | HDMI Cable        | Monitor           | Monitor Adaptor   | Result | Notes |
 | -------------- | ----------------- | --------------- | ----------------- | ----------------- | ----------------- | ------ | ----- |
-| V Lock         | Hedbox UNIX-BM    | Dedicated Weipu | Smallrig 20cm     | Portkeys BM5      | D-Tap             | ✔️     |
-| V Lock         | Tilta V-mount     | D-Tap           |                   | Feelworld FW279   | D-Tap             | 🛑     |
-| V Lock         | Switronix         | D-Tap           |                   | Liliput FS7       | D-Tap             | ❓     | [User](https://forum.blackmagicdesign.com/viewtopic.php?f=2&t=103646#p574179) states D-Tap cable had wrong polarity |
+| V Mount        | Hedbox UNIX-BM    | Dedicated Weipu | Smallrig 20cm     | Portkeys BM5      | D-Tap             | ✔️     |
+| V Mount        | Tilta V Mount     | D-Tap           |                   | Feelworld FW279   | D-Tap             | 🛑     |
+| V Mount        | Switronix         | D-Tap           |                   | Liliput FS7       | D-Tap             | ❓     | [User](https://forum.blackmagicdesign.com/viewtopic.php?f=2&t=103646#p574179) states D-Tap cable had wrong polarity |
 | Internal       | -                 | -               |                   | Feelworld F5      | -                 | 🛑     |
 
 If you would like to list your combination here open a issue [here](https://github.com/thetooth/p4k6kpower/issues) or submit a PR.
