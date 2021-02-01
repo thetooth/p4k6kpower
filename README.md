@@ -12,7 +12,8 @@ Hopefully with enough data it will allow people to draw their own conclusions on
 
 | Battery Type   | Battery Adaptor   | Camera Adaptor  | HDMI Cable        | Monitor           | Monitor Adaptor   | Result | Notes |
 | -------------- | ----------------- | --------------- | ----------------- | ----------------- | ----------------- | ------ | ----- |
-| V Mount        | Hedbox UNIX-BM    | Dedicated Weipu | Smallrig 20cm     | Portkeys BM5      | D-Tap             | ✔️     |
+| V Mount        | Hedbox UNIX-BM    | Dedicated Weipu | Smallrig 20cm     | Portkeys BM5      | D-Tap             | ✔️     | 2 years without issues
+| V Mount        | ROLUX RL-VFU2     | D-Tap           |                   | BM Video Assist   | Regulated 12V     | ✔️     | [2 years without issues](https://old.reddit.com/r/bmpcc/comments/l4i4oc/power_help/gkoso68/)
 | V Mount        | Tilta V Mount     | D-Tap           |                   | Feelworld FW279   | D-Tap             | 🛑     |
 | V Mount        | Switronix         | D-Tap           |                   | Liliput FS7       | D-Tap             | ❓     | [User](https://forum.blackmagicdesign.com/viewtopic.php?f=2&t=103646#p574179) states D-Tap cable had wrong polarity |
 | Internal       | -                 | -               |                   | Feelworld F5      | -                 | 🛑     |
